@@ -29,7 +29,20 @@ $z = 370;
 
 print "<br /><br />" . $z - $y - $x ."<br /><br />" ;
 
+//Osztas
+//-------------------------------
+$egyik = 25;
+$masik = 5;
 
+print ($egyik / $masik) . "<br><br>";
+
+
+//szorzas
+//-------------------------------
+$kicsi = 3;
+$nagy = 23;
+
+print ($kicsi * $nagy) . "<br><br>";
 
 
 
