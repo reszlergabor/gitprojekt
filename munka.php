@@ -34,13 +34,21 @@ $y = 19;
 print "<br /><br />" . $x - $y;
 print "konfliktus lesz...";
 
+//Osztas
+//-------------------------------
+$egyik = 25;
+$masik = 5;
 
+<<<<<<< HEAD
 //szorzas
 //-------------------------------
 $kicsi = 3;
 $nagy = 23;
 
 print ($kicsi * $nagy) . "<br><br>";
+=======
+print $egyik / $masik . "<br><br>";
+>>>>>>> osztas
 
 
 
