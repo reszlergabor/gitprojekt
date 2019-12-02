@@ -23,12 +23,11 @@ print $a+$b+$c;
 //Kivonas
 //-------------------------------
 
-$x = 35;
-$y = 19;
-$z = 37;
+$x = 15;
+$y = 59;
+$z = 370;
 
-print "<br /><br />" . $x - $y;
-print "konfliktus lesz...";
+print "<br /><br />" . $z - $y - $x;
 
 
 
