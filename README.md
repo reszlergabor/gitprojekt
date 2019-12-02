@@ -1,3 +1,3 @@
 # gitprojekt
 ## rövid leírás
-ez a git projekttt
+ez a **git** *projekttt*
