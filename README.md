@@ -18,7 +18,7 @@ index: http://index.hu
 
 Ebben a sorban beillesztett `<b>kódrészlet<b>` van.
 
-```
+```php
 $a = 23;
 $b = 24;
 print $a + $b;
